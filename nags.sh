@@ -1,1 +1,2 @@
-echo"sandy is agoodlookin bad guy"
+#!/bin/bash
+echo"sanddy chudara"
